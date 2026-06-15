@@ -4,7 +4,7 @@
 
 ## 🌐 線上瀏覽
 
-👉 [**點擊這裡開始學習**](https://leesu67.github.io/Laws-of-Sines-and-Cosines-/index.html)
+👉 [**點擊這裡開始學習**](https://leesu67.github.io/Laws-of-Sines-and-Cosines-/)
 
 ## ✨ 功能特色
 
